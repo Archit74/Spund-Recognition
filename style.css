@@ -1,0 +1,25 @@
+.main_div{
+    background-color: plum;
+    margin-top: 90px;
+}
+body{
+  text-align: center;
+  font-family: 'Special Elite', cursive;
+}
+#button_start{
+    font-size: 15px;
+   width: 150px;
+   height: 30px;
+   background-color: sandybrown;
+   text-align: center;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    font-size: 50px;
+    width: 100%;
+    text-align: center;
+}
+.footer p{
+    font-size: 20px;
+}
